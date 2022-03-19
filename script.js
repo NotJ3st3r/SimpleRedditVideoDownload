@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Simple Reddit Video Downloader (with sound) [redditsave.com]
+// @name         Simple Reddit Video Downloader [redditsave.com]
 // @version      1.0.0
 // @description  Lets you download reddit videos with sound using Redditsave.com
 // @author       https://github.com/NotJ3st3r/
