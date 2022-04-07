@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Simple Reddit Video Downloader [redditsave.com]
-// @version      1.0.0
+// @version      1.1
 // @license      MIT
 // @description  Lets you download reddit videos with sound using Redditsave.com
+// @icon         https://www.reddit.com/favicon.ico
 // @author       https://github.com/NotJ3st3r/
 // @namespace    https://github.com/NotJ3st3r/SimpleRedditVideoDownload
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
